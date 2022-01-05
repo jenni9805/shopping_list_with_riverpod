@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539057511696",
+    "project_id": "shopping-list-riverpod-94042",
+    "storage_bucket": "shopping-list-riverpod-94042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539057511696:android:29cbd25c00c2881d8c1995",
+        "android_client_info": {
+          "package_name": "com.example.flutter_riverpod_shopping_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539057511696-b1ceafpkgcuhf65n5flp55npkoqn9823.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVFn--MZfVcFLjFu4tM31F3nYuBzph04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539057511696-b1ceafpkgcuhf65n5flp55npkoqn9823.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
